@@ -1,0 +1,16 @@
+*{
+    color: rgb(169, 152, 54);
+    font-weight: 500;
+}
+#header{
+    text-shadow: 1px 1px 1px black;
+}
+
+.j-board{
+    border: solid black 3px;
+    background-color: rgb(1, 1, 147);
+    cursor: pointer;
+}
+.j-board:hover{
+    background-color: grey;
+}
